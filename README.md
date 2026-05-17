@@ -1,5 +1,9 @@
-## Hi there 👋
+### 🏅 Certifications & Continuous Professional Development
 
+#### **TryHackMe — Cyber Security 101**
+* **Credential ID:** `THM-E6O8WJ6XOM` | **Issued:** May 2026
+* **Scope:** 74 Hands-on Labs & 106 Practical Cyber Security Challenges Completed
+* **Verified Certificate:** [View Official Certificate](./TryHackMe-CyberSecurity101-Usman-Akhter.png)
 <!--
 **UsmanAkhter-Cybersecurity/UsmanAkhter-Cybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
